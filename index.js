@@ -1,5 +1,5 @@
 var keyboard = require('msi-keyboard');
 
-keyboard.color('left', { color: 'green', intensity: 'med' });
-keyboard.color('middle', { color: 'blue', intensity: 'med' });
+keyboard.color('left', { color: 'green', intensity: 'high' });
+keyboard.color('middle', { color: 'blue', intensity: 'low' });
 keyboard.color('right', { color: 'purple', intensity: 'med' });
